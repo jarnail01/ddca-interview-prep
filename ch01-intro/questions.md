@@ -1,4 +1,4 @@
-# Chapter 3: Combinational Logic Design
+# Chapter 1: From Zero to One
 
 ### 1.1: Sketch a transistor-level circuit for a CMOS four-input NOR gate.
 
